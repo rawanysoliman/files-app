@@ -1,0 +1,16 @@
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\bin\Debug\net9.0-windows\WinFormsFilesApp2.exe
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\bin\Debug\net9.0-windows\WinFormsFilesApp2.deps.json
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\bin\Debug\net9.0-windows\WinFormsFilesApp2.runtimeconfig.json
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\bin\Debug\net9.0-windows\WinFormsFilesApp2.dll
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\bin\Debug\net9.0-windows\WinFormsFilesApp2.pdb
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\WinFormsFilesApp2.csproj.GenerateResource.cache
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\WinFormsFilesApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\WinFormsFilesApp2.AssemblyInfoInputs.cache
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\WinFormsFilesApp2.AssemblyInfo.cs
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\WinFormsFilesApp2.csproj.CoreCompileInputs.cache
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\WinFormsFilesApp2.dll
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\refint\WinFormsFilesApp2.dll
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\WinFormsFilesApp2.pdb
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\WinFormsFilesApp2.genruntimeconfig.cache
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\ref\WinFormsFilesApp2.dll
+C:\Users\Rawan\source\repos\WinFormsFilesApp2\WinFormsFilesApp2\obj\Debug\net9.0-windows\WinFormsFilesApp2.FileManager.resources
