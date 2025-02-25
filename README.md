@@ -1,4 +1,4 @@
-# Files App
+# Files Manager App
 
 
 A simple and intuitive file management application to organize, upload, and delete files and folders.
@@ -17,8 +17,7 @@ The **Files App** is a Desktop-based application designed to help users manage t
 ---
 
 ## Screenshots
-![File App](./screenshot/file-fileManager.png)  
-*File Upload Interface*
+![File Manager](./screenshot/file-fileManager.png)  
 
 ---
 ## Installation
