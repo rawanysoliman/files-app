@@ -17,7 +17,7 @@ The **Files App** is a Desktop-based application designed to help users manage t
 ---
 
 ## Screenshots
-![File Manager](./screenshot/file-fileManager.png)  
+![File Manager](./screenshot/fileManager.png)  
 
 ---
 ## Installation
