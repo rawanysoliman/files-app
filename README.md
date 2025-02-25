@@ -6,7 +6,7 @@ A simple and intuitive file management application to organize, upload, and dele
 ---
 
 ## Description
-The **Files App** is a Desktop-based application designed to help users manage their files and folders efficiently. It provides a user-friendly interface for uploading, organizing, and deletingfiles. Whether you're managing personal documents or collaborating on a project, this app simplifies file management.
+The **Files App** is a Desktop-based application designed to help users manage their files and folders efficiently. It provides a user-friendly interface for uploading, organizing, and deleting files. Whether you're managing personal documents or collaborating on a project, this app simplifies file management.
 
 ---
 
